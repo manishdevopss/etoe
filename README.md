@@ -1,6 +1,7 @@
 Why I Introduced This DevOps Definition
 “DevOps is the integration of System Engineering and Application Engineering.”
-— Sri Srinivas (Srinivasa Raju Tangella)
+
+Learing Devops all Tolls & Install
 
 🎯 The Realization Behind the Definition
 After years of hands-on experience in complex DevOps environments — across both Azure and AWS — I came to a critical understanding:
@@ -58,15 +59,6 @@ This definition matters in 2025 and beyond because:
 ✅ It encourages engineers to go beyond tools — into true ownership
 ✅ It aligns with full-stack delivery and DevOps-as-a-Service models
 
-📘 See the official GitHub repo: https://github.com/sresrinivas/etoe
-📜 License: CC BY 4.0
-✍️ Authored by: Sri Srinivas (Srinivasa Raju Tangella)
-
-
-📌 The Final Thought
-DevOps isn't a title. It's not a tool.
-It's a discipline that unites engineering depth in systems and applications —
-and this is the definition that will shape the future of DevOps engineering.
 
 ## 🧠 My DevOps Thought Leadership
 
